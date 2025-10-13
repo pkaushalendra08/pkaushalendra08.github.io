@@ -1,4 +1,4 @@
-import { FaHtml5, FaCss3Alt, FaReact, FaNode, FaGithub , FaDocker, FaBootstrap, FaFigma, FaGitAlt,FaJava  } from "react-icons/fa6";
+import { FaLaravel, FaHtml5, FaCss3Alt, FaReact, FaNode, FaGithub , FaDocker, FaBootstrap, FaFigma, FaGitAlt,FaJava  } from "react-icons/fa6";
 import { SiJavascript, SiMongodb, SiExpress, SiRedux, SiTailwindcss, SiMongoose, SiJfrogpipelines, SiPostman, SiKubernetes, SiC, SiCplusplus, SiPython } from "react-icons/si";
 import { VscVscode } from "react-icons/vsc";
 
@@ -14,9 +14,10 @@ export const SkillIcons = {
   
   //Backend
   "Node.js": <FaNode className="text-[#5FA04E]"/>,
-  "Express.js": <SiExpress className=" text-white"/>,
+  "Express.js": <SiExpress className="text-white"/>,
   MongoDB: <SiMongodb className="text-[#47A248]"/>,
   Mongoose: <SiMongoose className="text-[#880000]"/>,
+  Laravel: <FaLaravel className="text-white"/>,
 
   //Devops
   GitHub: <FaGithub className="text-white"/>,

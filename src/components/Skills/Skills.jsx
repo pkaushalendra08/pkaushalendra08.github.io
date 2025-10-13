@@ -16,6 +16,7 @@ const skillData = {
     { name: "Express.js" },
     { name: "MongoDB" },
     { name: "Mongoose" },
+    { name: "Laravel" },
   ],
 //   DevOps: [
 //     { name: "GitHub" },

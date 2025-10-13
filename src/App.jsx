@@ -44,7 +44,7 @@ const App = () => {
         <Navbar />
         <About />
         <Skills />
-        {/* <Experience /> */}
+        <Experience />
         <Project />
         <Education />
         <CertificateSection />
